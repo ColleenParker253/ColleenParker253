@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ColleenParker253
 - 👀 I’m interested in web development in SharePoint
 - 🌱 I’m currently learning JSON
-- 💞️ I’m looking to collaborate on nothing right now
+- 💞️ I’m looking for a new role in 2024 where I can help build solutions
 
 
 <!---
